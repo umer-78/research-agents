@@ -1,5 +1,7 @@
 # research-agents
 
+[![CI](https://github.com/umer-78/research-agents/actions/workflows/ci.yml/badge.svg)](https://github.com/umer-78/research-agents/actions/workflows/ci.yml)
+
 [![Research Agents: the live demo](.github/preview.jpg)](https://umer-78.github.io/research-agents/)
 
 **Live demo:** https://umer-78.github.io/research-agents/ (watch recorded runs step by step at three tool failure rates)
