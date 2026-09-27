@@ -1,20 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-scene="agents">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Research Agents · Umer Hashmi</title>
   <meta name="description" content="A supervisor, researchers and a writer under hard budgets, with flaky tools: every claim cited, every gap admitted, and any run resumable. Watch 12 recorded runs.">
+  <meta name="theme-color" content="#be185d">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
   <link rel="stylesheet" href="kit.css">
-  <style>:root { --accent: #be185d; --on-accent: #fff; } @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #f9a8d4; --on-accent: #0f0e0c; } }</style>
+  <link rel="stylesheet" href="fx.css">
+  <style>:root { --accent: #be185d; --fx-2: #8b5cf6; --fx-3: #06b6d4; --on-accent: #fff; } @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #f9a8d4; --on-accent: #0f0e0c; } }</style>
 </head>
 <body>
   <div class="wrap">
-    <header>
-      <a class="crumb" href="https://umer-78.github.io/">← All projects</a>
+    <nav class="fx-nav" aria-label="On this page"><a class="fx-home" href="https://umer-78.github.io/">← All projects</a><a class="fx-gh" href="https://github.com/umer-78/research-agents">GitHub</a></nav>
+    <header class="fx-hero">
+      <span class="fx-eyebrow">LLM engineering · Python</span>
       <h1>Research Agents</h1>
       <p class="lede">A research agent is only useful if you can trust what it says and bound what it spends. Here a planner splits a question into sub-questions, researchers search and read pages with tools that fail on purpose, a supervisor sends unanswered ones back once, and a writer cites every claim and names what it could not find. Budgets are enforced in code, and the state is saved after every step. Below: real runs on a local copy of PyPI pages, at three tool failure rates.</p>
       <div class="links"><a class="btn primary" href="#run">Watch a run</a><a class="btn" href="https://github.com/umer-78/research-agents">Code and method</a></div>
+      <div class="fx-tags" aria-hidden="true"><div><span>python</span><span>agents</span><span>llm</span><span>research</span><span>tracing</span><span>sqlite</span><span>python</span><span>agents</span><span>llm</span><span>research</span><span>tracing</span><span>sqlite</span></div></div>
     </header>
     <main>
       <section class="kpis" id="kpis"></section>
@@ -39,5 +46,6 @@
     <footer>Built by <a href="https://github.com/umer-78">Umer Hashmi</a> · Pages built from the <a href="https://pypi.org">PyPI</a> JSON API at run time; the search and fetch tools fail at random on purpose</footer>
   </div>
   <script type="module" src="app.js"></script>
+  <script type="module" src="fx.js"></script>
 </body>
 </html>
