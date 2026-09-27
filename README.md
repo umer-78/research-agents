@@ -1,5 +1,7 @@
 # research-agents
 
+[![Research Agents: the live demo](.github/preview.jpg)](https://umer-78.github.io/research-agents/)
+
 **Live demo:** https://umer-78.github.io/research-agents/ (watch recorded runs step by step at three tool failure rates)
 
 A multi-agent research assistant built around the three things a production agent needs and a tutorial agent doesn't:
