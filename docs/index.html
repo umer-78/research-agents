@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Research Agents · Umer Hashmi</title>
+  <meta name="description" content="A supervisor, researchers and a writer under hard budgets, with flaky tools: every claim cited, every gap admitted, and any run resumable. Watch 12 recorded runs.">
+  <link rel="stylesheet" href="kit.css">
+  <style>:root { --accent: #be185d; --on-accent: #fff; } @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --accent: #f9a8d4; --on-accent: #0f0e0c; } }</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <a class="crumb" href="https://umer-78.github.io/">← All projects</a>
+      <h1>Research Agents</h1>
+      <p class="lede">A research agent is only useful if you can trust what it says and bound what it spends. Here a planner splits a question into sub-questions, researchers search and read pages with tools that fail on purpose, a supervisor sends unanswered ones back once, and a writer cites every claim and names what it could not find. Budgets are enforced in code, and the state is saved after every step. Below: real runs on a local copy of PyPI pages, at three tool failure rates.</p>
+      <div class="links"><a class="btn primary" href="#run">Watch a run</a><a class="btn" href="https://github.com/umer-78/research-agents">Code and method</a></div>
+    </header>
+    <main>
+      <section class="kpis" id="kpis"></section>
+      <section class="card" id="run">
+        <h2>Watch a run</h2>
+        <p class="sub">Each step is one agent's turn. Sub-questions turn green when answered with a citation; a failed tool call leaves them for the supervisor, which sends the retryable ones back once. The writer reports what it could not establish instead of guessing.</p>
+        <div class="controls"><label for="qsel">Question</label><select id="qsel"></select></div>
+        <div class="controls"><label>Tools fail</label><div id="rate"></div><button class="btn primary" id="play" type="button">Replay</button></div>
+        <div class="steps" id="trace"></div>
+        <div class="readout" id="meter"></div>
+        <div id="subs" style="margin-top:14px"></div>
+        <p class="small muted" id="log"></p>
+        <h3 class="small muted" style="margin:18px 0 8px">The report</h3>
+        <div class="box" id="report"></div>
+      </section>
+      <section class="card">
+        <h2>More failures, fewer answers, never a wrong one</h2>
+        <p class="sub">All 100 questions (600 sub-questions) at each tool failure rate. Unanswered sub-questions are named in the report; claims that were made all matched the page they cite.</p>
+        <div id="sweep"></div>
+      </section>
+    </main>
+    <footer>Built by <a href="https://github.com/umer-78">Umer Hashmi</a> · Pages built from the <a href="https://pypi.org">PyPI</a> JSON API at run time; the search and fetch tools fail at random on purpose</footer>
+  </div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

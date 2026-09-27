@@ -10,7 +10,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4692,
+   "tokens": 4657,
    "steps": 9
   },
   {
@@ -23,7 +23,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4456,
+   "tokens": 4424,
    "steps": 9
   },
   {
@@ -40,7 +40,7 @@
     "rate_limited",
     "rate_limited"
    ],
-   "tokens": 6107,
+   "tokens": 6083,
    "steps": 13
   },
   {
@@ -53,7 +53,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4722,
+   "tokens": 4688,
    "steps": 9
   },
   {
@@ -66,7 +66,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4910,
+   "tokens": 4876,
    "steps": 9
   },
   {
@@ -79,7 +79,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4506,
+   "tokens": 4471,
    "steps": 9
   },
   {
@@ -92,7 +92,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4754,
+   "tokens": 4719,
    "steps": 9
   },
   {
@@ -105,7 +105,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4896,
+   "tokens": 4861,
    "steps": 9
   },
   {
@@ -118,7 +118,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6457,
+   "tokens": 6416,
    "steps": 13
   },
   {
@@ -131,7 +131,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6410,
+   "tokens": 6368,
    "steps": 13
   },
   {
@@ -144,7 +144,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4761,
+   "tokens": 4726,
    "steps": 9
   },
   {
@@ -157,7 +157,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4577,
+   "tokens": 4541,
    "steps": 9
   },
   {
@@ -170,7 +170,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4521,
+   "tokens": 4486,
    "steps": 9
   },
   {
@@ -183,7 +183,7 @@
    "retried": 6,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 8528,
+   "tokens": 8492,
    "steps": 16
   },
   {
@@ -196,7 +196,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4631,
+   "tokens": 4595,
    "steps": 9
   },
   {
@@ -209,7 +209,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4979,
+   "tokens": 4944,
    "steps": 9
   },
   {
@@ -226,7 +226,7 @@
     "timeout",
     "timeout"
    ],
-   "tokens": 6064,
+   "tokens": 6042,
    "steps": 13
   },
   {
@@ -239,7 +239,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4979,
+   "tokens": 4944,
    "steps": 9
   },
   {
@@ -252,7 +252,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4657,
+   "tokens": 4624,
    "steps": 9
   },
   {
@@ -265,7 +265,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6808,
+   "tokens": 6766,
    "steps": 13
   },
   {
@@ -278,7 +278,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4980,
+   "tokens": 4944,
    "steps": 9
   },
   {
@@ -291,7 +291,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4523,
+   "tokens": 4487,
    "steps": 9
   },
   {
@@ -304,7 +304,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6777,
+   "tokens": 6736,
    "steps": 13
   },
   {
@@ -317,7 +317,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4793,
+   "tokens": 4760,
    "steps": 9
   },
   {
@@ -330,7 +330,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4503,
+   "tokens": 4468,
    "steps": 9
   },
   {
@@ -347,7 +347,7 @@
     "rate_limited",
     "rate_limited"
    ],
-   "tokens": 6179,
+   "tokens": 6155,
    "steps": 13
   },
   {
@@ -360,7 +360,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4407,
+   "tokens": 4373,
    "steps": 9
   },
   {
@@ -373,7 +373,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4567,
+   "tokens": 4534,
    "steps": 9
   },
   {
@@ -386,7 +386,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4507,
+   "tokens": 4473,
    "steps": 9
   },
   {
@@ -396,118 +396,6 @@
    "correct": 6,
    "supported": 6,
    "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4614,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4936,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "rate_limited",
-    "rate_limited",
-    "rate_limited"
-   ],
-   "tokens": 6092,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4494,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 5071,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4597,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "timeout",
-    "timeout",
-    "timeout"
-   ],
-   "tokens": 6123,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [],
-   "tokens": 6825,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
@@ -520,11 +408,28 @@
    "answered": 6,
    "correct": 6,
    "supported": 6,
-   "failures_seen": 0,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4904,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
    "retried": 3,
    "sent_back": 1,
-   "gaps": [],
-   "tokens": 6756,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6068,
    "steps": 13
   },
   {
@@ -533,11 +438,11 @@
    "answered": 6,
    "correct": 6,
    "supported": 6,
-   "failures_seen": 3,
+   "failures_seen": 0,
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4531,
+   "tokens": 4459,
    "steps": 9
   },
   {
@@ -550,7 +455,323 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4710,
+   "tokens": 5036,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4561,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "tokens": 6100,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6786,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4544,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6717,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4498,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4678,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4550,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4715,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6728,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4703,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4446,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6822,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4468,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4700,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6434,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4465,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4568,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4490,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4463,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4719,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4434,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4519,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4539,
    "steps": 9
   },
   {
@@ -576,59 +797,41 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4751,
+   "tokens": 4498,
    "steps": 9
   },
   {
    "status": "done",
    "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 6,
    "retried": 3,
    "sent_back": 1,
-   "gaps": [],
-   "tokens": 6770,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6353,
    "steps": 13
   },
   {
    "status": "done",
    "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
    "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4737,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4480,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
    "retried": 3,
    "sent_back": 1,
-   "gaps": [],
-   "tokens": 6863,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6001,
    "steps": 13
   },
   {
@@ -641,20 +844,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4504,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4735,
+   "tokens": 4632,
    "steps": 9
   },
   {
@@ -667,7 +857,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6474,
+   "tokens": 6469,
    "steps": 13
   },
   {
@@ -680,33 +870,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4500,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4604,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4526,
+   "tokens": 4778,
    "steps": 9
   },
   {
@@ -719,7 +883,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4499,
+   "tokens": 4960,
    "steps": 9
   },
   {
@@ -732,7 +896,240 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4755,
+   "tokens": 4456,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6373,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 7226,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4371,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 7098,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4909,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4709,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4978,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 6,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "tokens": 6354,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4403,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4617,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 5068,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "no_results",
+    "no_results",
+    "no_results"
+   ],
+   "tokens": 6032,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4533,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6266,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4854,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4745,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4774,
    "steps": 9
   },
   {
@@ -758,404 +1155,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4553,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4574,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4619,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4532,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 6,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "rate_limited",
-    "rate_limited",
-    "rate_limited"
-   ],
-   "tokens": 6377,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "rate_limited",
-    "rate_limited",
-    "rate_limited"
-   ],
-   "tokens": 6025,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4668,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [],
-   "tokens": 6511,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4812,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4995,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4491,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [],
-   "tokens": 6411,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [],
-   "tokens": 7267,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4407,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [],
-   "tokens": 7140,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4945,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4745,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 5011,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 6,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "timeout",
-    "timeout",
-    "timeout"
-   ],
-   "tokens": 6378,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4436,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4653,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 3,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 5102,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "no_results",
-    "no_results",
-    "no_results"
-   ],
-   "tokens": 6056,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4569,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 3,
-   "correct": 3,
-   "supported": 3,
-   "failures_seen": 3,
-   "retried": 3,
-   "sent_back": 1,
-   "gaps": [
-    "rate_limited",
-    "rate_limited",
-    "rate_limited"
-   ],
-   "tokens": 6288,
-   "steps": 13
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4889,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4781,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4809,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4502,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4522,
+   "tokens": 4489,
    "steps": 9
   },
   {
@@ -1172,7 +1172,7 @@
     "rate_limited",
     "rate_limited"
    ],
-   "tokens": 7743,
+   "tokens": 7728,
    "steps": 16
   },
   {
@@ -1185,7 +1185,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6867,
+   "tokens": 6826,
    "steps": 13
   },
   {
@@ -1202,7 +1202,7 @@
     "no_results",
     "no_results"
    ],
-   "tokens": 7103,
+   "tokens": 7085,
    "steps": 16
   },
   {
@@ -1215,20 +1215,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4485,
-   "steps": 9
-  },
-  {
-   "status": "done",
-   "subquestions": 6,
-   "answered": 6,
-   "correct": 6,
-   "supported": 6,
-   "failures_seen": 0,
-   "retried": 0,
-   "sent_back": 0,
-   "gaps": [],
-   "tokens": 4689,
+   "tokens": 4449,
    "steps": 9
   },
   {
@@ -1254,7 +1241,20 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4648,
+   "tokens": 4619,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4615,
    "steps": 9
   },
   {
@@ -1267,7 +1267,7 @@
    "retried": 3,
    "sent_back": 1,
    "gaps": [],
-   "tokens": 6866,
+   "tokens": 6827,
    "steps": 13
   },
   {
@@ -1280,7 +1280,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4894,
+   "tokens": 4858,
    "steps": 9
   },
   {
@@ -1293,7 +1293,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4568,
+   "tokens": 4535,
    "steps": 9
   },
   {
@@ -1306,7 +1306,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4529,
+   "tokens": 4496,
    "steps": 9
   },
   {
@@ -1319,7 +1319,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4559,
+   "tokens": 4523,
    "steps": 9
   },
   {
@@ -1332,7 +1332,7 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4536,
+   "tokens": 4502,
    "steps": 9
   },
   {
@@ -1345,22 +1345,22 @@
    "retried": 0,
    "sent_back": 0,
    "gaps": [],
-   "tokens": 4652,
+   "tokens": 4616,
    "steps": 9
   }
  ],
  "sweep": {
   "0.0": {
    "answered": 1.0,
-   "tokens": 4616.5
+   "tokens": 4582.0
   },
   "0.15": {
    "answered": 0.94,
-   "tokens": 4741.0
+   "tokens": 4706.0
   },
   "0.4": {
    "answered": 0.665,
-   "tokens": 6360.5
+   "tokens": 6319.5
   }
  },
  "resumed_same": 20

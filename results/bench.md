@@ -3,14 +3,14 @@
 - Answered: 564 (94.0%); unanswered, and said so in the report: 36 (no_results 6, rate_limited 21, timeout 9).
 - Claims matching the PyPI record behind the page: 564 of 564 (100.0%). Citations whose snippet contains the claim, on the entity's own page: 564 of 564.
 - Tool failures met: 96; sub-questions retried after the one send-back: 93; runs that used the send-back: 28; runs stopped by a budget: 0.
-- Metered tokens per run: median 4,741, max 8,528 (ceiling 20,000); steps per run: max 16.
+- Metered tokens per run: median 4,706, max 8,492 (ceiling 20,000); steps per run: max 16.
 - Runs killed at a random step and resumed from the store: 20 of 20 ended with the same report and path.
 
 | Tool failure rate | Sub-questions answered | Median tokens per run |
 |---|---|---|
-| 0% | 100.0% | 4,616 |
-| 15% | 94.0% | 4,741 |
-| 40% | 66.5% | 6,360 |
+| 0% | 100.0% | 4,582 |
+| 15% | 94.0% | 4,706 |
+| 40% | 66.5% | 6,320 |
 
 An example report (tools failing 15% of the time):
 

@@ -1,0 +1,7939 @@
+{
+ "summary": {
+  "sweep": {
+   "0.0": {
+    "answered": 1.0,
+    "tokens": 4582.0
+   },
+   "0.15": {
+    "answered": 0.94,
+    "tokens": 4706.0
+   },
+   "0.4": {
+    "answered": 0.665,
+    "tokens": 6319.5
+   }
+  },
+  "resumed_same": 20
+ },
+ "bench_runs": [
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4657,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4424,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6083,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4688,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4876,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4471,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4719,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4861,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6416,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6368,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4726,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4541,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4486,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 6,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 8492,
+   "steps": 16
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4595,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4944,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "tokens": 6042,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4944,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4624,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6766,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4944,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4487,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6736,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4760,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4468,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6155,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4373,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4534,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4473,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4580,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4904,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6068,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4459,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 5036,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4561,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "tokens": 6100,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6786,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4544,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6717,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4498,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4678,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4550,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4715,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6728,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4703,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4446,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6822,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4468,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4700,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6434,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4465,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4568,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4490,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4463,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4719,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4434,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4519,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4539,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4585,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4498,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 6,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6353,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6001,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4632,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6469,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4778,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4960,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4456,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6373,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 7226,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4371,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 7098,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4909,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4709,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4978,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 6,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "tokens": 6354,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4403,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4617,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 5068,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "no_results",
+    "no_results",
+    "no_results"
+   ],
+   "tokens": 6032,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4533,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 6266,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4854,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4745,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4774,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4468,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4489,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 6,
+   "sent_back": 1,
+   "gaps": [
+    "rate_limited",
+    "rate_limited",
+    "rate_limited"
+   ],
+   "tokens": 7728,
+   "steps": 16
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6826,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 3,
+   "correct": 3,
+   "supported": 3,
+   "failures_seen": 3,
+   "retried": 6,
+   "sent_back": 1,
+   "gaps": [
+    "no_results",
+    "no_results",
+    "no_results"
+   ],
+   "tokens": 7085,
+   "steps": 16
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4449,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4655,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4619,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4615,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 3,
+   "sent_back": 1,
+   "gaps": [],
+   "tokens": 6827,
+   "steps": 13
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4858,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4535,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4496,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4523,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 3,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4502,
+   "steps": 9
+  },
+  {
+   "status": "done",
+   "subquestions": 6,
+   "answered": 6,
+   "correct": 6,
+   "supported": 6,
+   "failures_seen": 0,
+   "retried": 0,
+   "sent_back": 0,
+   "gaps": [],
+   "tokens": 4616,
+   "steps": 9
+  }
+ ],
+ "budget": {
+  "max_subquestions": 8,
+  "max_searches": 3,
+  "max_tokens": 20000,
+  "max_seconds": 30.0,
+  "send_backs": 1
+ },
+ "runs": {
+  "0.0": [
+   {
+    "question": "Compare google-cloud-os-login and execnet: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4657,
+    "report": "# Compare google-cloud-os-login and execnet: licence, dependencies and author.\n\n**google-cloud-os-login** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [1]; author: Google LLC [1]\n**execnet** \u2014 licence: MIT [2]; dependencies: none [2]; author: holger krekel and others [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-os-login/\n[2] https://pypi.org/project/execnet/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 427
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 455
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 402
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 987
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "holger krekel and others"
+     }
+    ]
+   },
+   {
+    "question": "Compare triton and jedi: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4353,
+    "report": "# Compare triton and jedi: licence, dependencies and author.\n\n**triton** \u2014 licence: MIT [1]; dependencies: importlib-metadata [1]; author: Philippe Tillet [1]\n**jedi** \u2014 licence: MIT [2]; dependencies: parso [2]; author: David Halter [2]\n\nSources:\n[1] https://pypi.org/project/triton/\n[2] https://pypi.org/project/jedi/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 401
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 397
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 401
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 893
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 637
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "triton",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "triton",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "importlib-metadata"
+     },
+     {
+      "entity": "triton",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "Philippe Tillet"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "parso"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "David Halter"
+     }
+    ]
+   },
+   {
+    "question": "Compare h11 and pytest-json-ctrf: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4460,
+    "report": "# Compare h11 and pytest-json-ctrf: licence, dependencies and author.\n\n**h11** \u2014 licence: MIT [1]; dependencies: none [1]; author: Nathaniel J. Smith [1]\n**pytest-json-ctrf** \u2014 licence: MIT License [2]; dependencies: pytest [2]; author: Oleksii Ostapov [2]\n\nSources:\n[1] https://pypi.org/project/h11/\n[2] https://pypi.org/project/pytest-json-ctrf/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 414
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 396
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 400
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 419
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 422
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 927
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 658
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "h11",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "h11",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "h11",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "Nathaniel J. Smith"
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pytest-json-ctrf/",
+        "ok"
+       ]
+      ],
+      "value": "MIT License"
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pytest-json-ctrf/",
+        "ok"
+       ]
+      ],
+      "value": "pytest"
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pytest-json-ctrf/",
+        "ok"
+       ]
+      ],
+      "value": "Oleksii Ostapov"
+     }
+    ]
+   },
+   {
+    "question": "Compare pymongo and google-analytics-admin: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4688,
+    "report": "# Compare pymongo and google-analytics-admin: licence, dependencies and author.\n\n**pymongo** \u2014 licence: Apache-2.0 [1]; dependencies: dnspython [1]; author: The MongoDB Python Team [1]\n**google-analytics-admin** \u2014 licence: Apache-2.0 [2]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/pymongo/\n[2] https://pypi.org/project/google-analytics-admin/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 456
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 996
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 728
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "pymongo",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "dnspython"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "The MongoDB Python Team"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4876,
+    "report": "# Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.\n\n**google-cloud-secret-manager** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**mcp-types** \u2014 licence: MIT [2]; dependencies: pydantic, typing-extensions [2]; author: Model Context Protocol a Series of LF Projects, LLC. [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-secret-manager/\n[2] https://pypi.org/project/mcp-types/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 436
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1053
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 789
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "pydantic, typing-extensions"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "Model Context Protocol a Series of LF Projects, LLC."
+     }
+    ]
+   },
+   {
+    "question": "Compare absl-py and google-crc32c: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4471,
+    "report": "# Compare absl-py and google-crc32c: licence, dependencies and author.\n\n**absl-py** \u2014 licence: Apache-2.0 [1]; dependencies: none [1]; author: The Abseil Authors [1]\n**google-crc32c** \u2014 licence: Apache-2.0 [2]; dependencies: none [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/absl-py/\n[2] https://pypi.org/project/google-crc32c/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 416
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 413
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 931
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 660
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "absl-py",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "The Abseil Authors"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-kms and httplib2: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4633,
+    "report": "# Compare google-cloud-kms and httplib2: licence, dependencies and author.\n\n**google-cloud-kms** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**httplib2** \u2014 licence: MIT [2]; dependencies: pyparsing [2]; author: Joe Gregorio [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-kms/\n[2] https://pypi.org/project/httplib2/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 420
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 419
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 458
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 979
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "pyparsing"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "Joe Gregorio"
+     }
+    ]
+   },
+   {
+    "question": "Compare reportlab and google-cloud-storage: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4861,
+    "report": "# Compare reportlab and google-cloud-storage: licence, dependencies and author.\n\n**reportlab** \u2014 licence: BSD License [1]; dependencies: pillow, charset-normalizer [1]; author: Andy Robinson, Robin Becker, the ReportLab team and the community [1]\n**google-cloud-storage** \u2014 licence: Apache-2.0 [2]; dependencies: google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/reportlab/\n[2] https://pypi.org/project/google-cloud-storage/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 410
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 424
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1045
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 802
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "reportlab",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "BSD License"
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "pillow, charset-normalizer"
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "Andy Robinson, Robin Becker, the ReportLab team and the community"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare xlsxwriter and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4433,
+    "report": "# Compare xlsxwriter and psutil: licence, dependencies and author.\n\n**xlsxwriter** \u2014 licence: BSD-2-Clause [1]; dependencies: none [1]; author: John McNamara [1]\n**psutil** \u2014 licence: BSD-3-Clause [2]; dependencies: none [2]; author: Giampaolo Rodola [2]\n\nSources:\n[1] https://pypi.org/project/xlsxwriter/\n[2] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 410
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 918
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 655
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "xlsxwriter",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-2-Clause"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "John McNamara"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare toml and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4351,
+    "report": "# Compare toml and psutil: licence, dependencies and author.\n\n**toml** \u2014 licence: MIT [1]; dependencies: none [1]; author: William Pearson [1]\n**psutil** \u2014 licence: BSD-3-Clause [2]; dependencies: none [2]; author: Giampaolo Rodola [2]\n\nSources:\n[1] https://pypi.org/project/toml/\n[2] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 397
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 892
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 636
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "toml",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "toml",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "toml",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "William Pearson"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-vision and aiosignal: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4726,
+    "report": "# Compare google-cloud-vision and aiosignal: licence, dependencies and author.\n\n**google-cloud-vision** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [1]; author: Google LLC [1]\n**aiosignal** \u2014 licence: Apache 2.0 [2]; dependencies: frozenlist, typing-extensions [2]; author: aiohttp team <team@aiohttp.org> [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-vision/\n[2] https://pypi.org/project/aiosignal/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 424
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 451
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 423
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 422
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1007
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 747
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "Apache 2.0"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "frozenlist, typing-extensions"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "aiohttp team <team@aiohttp.org>"
+     }
+    ]
+   },
+   {
+    "question": "Compare typing-inspect and pyflakes: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4541,
+    "report": "# Compare typing-inspect and pyflakes: licence, dependencies and author.\n\n**typing-inspect** \u2014 licence: MIT [1]; dependencies: mypy-extensions, typing-extensions, typing [1]; author: Ivan Levkivskyi [1]\n**pyflakes** \u2014 licence: MIT [2]; dependencies: none [2]; author: A lot of people [2]\n\nSources:\n[1] https://pypi.org/project/typing-inspect/\n[2] https://pypi.org/project/pyflakes/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 413
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 436
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 951
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 684
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "typing-inspect",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "mypy-extensions, typing-extensions, typing"
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "Ivan Levkivskyi"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "A lot of people"
+     }
+    ]
+   }
+  ],
+  "0.15": [
+   {
+    "question": "Compare google-cloud-os-login and execnet: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4657,
+    "report": "# Compare google-cloud-os-login and execnet: licence, dependencies and author.\n\n**google-cloud-os-login** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [1]; author: Google LLC [1]\n**execnet** \u2014 licence: MIT [2]; dependencies: none [2]; author: holger krekel and others [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-os-login/\n[2] https://pypi.org/project/execnet/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 427
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 455
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 402
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 987
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "holger krekel and others"
+     }
+    ]
+   },
+   {
+    "question": "Compare triton and jedi: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4424,
+    "report": "# Compare triton and jedi: licence, dependencies and author.\n\n**triton** \u2014 licence: MIT [1]; dependencies: importlib-metadata [1]; author: Philippe Tillet [1]\n**jedi** \u2014 licence: MIT [2]; dependencies: parso [2]; author: David Halter [2]\n\nSources:\n[1] https://pypi.org/project/triton/\n[2] https://pypi.org/project/jedi/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 401
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 413
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 928
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 637
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "triton",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "triton",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "importlib-metadata"
+     },
+     {
+      "entity": "triton",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "Philippe Tillet"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "timeout"
+       ],
+       [
+        "search",
+        "jedi python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "timeout"
+       ],
+       [
+        "search",
+        "jedi python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "parso"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "timeout"
+       ],
+       [
+        "search",
+        "jedi python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "David Halter"
+     }
+    ]
+   },
+   {
+    "question": "Compare h11 and pytest-json-ctrf: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6083,
+    "report": "# Compare h11 and pytest-json-ctrf: licence, dependencies and author.\n\n**h11** \u2014 licence: MIT [1]; dependencies: none [1]; author: Nathaniel J. Smith [1]\n**pytest-json-ctrf** \u2014 nothing established.\n\nCould not establish: pytest-json-ctrf licence (rate_limited); pytest-json-ctrf dependencies (rate_limited); pytest-json-ctrf author (rate_limited).\n\nSources:\n[1] https://pypi.org/project/h11/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 414
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 396
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 400
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 405
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 885
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 362
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 365
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 361
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 754
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 524
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "h11",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "h11",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "h11",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "Nathaniel J. Smith"
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "licence",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "dependencies",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "author",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     }
+    ]
+   },
+   {
+    "question": "Compare pymongo and google-analytics-admin: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4688,
+    "report": "# Compare pymongo and google-analytics-admin: licence, dependencies and author.\n\n**pymongo** \u2014 licence: Apache-2.0 [1]; dependencies: dnspython [1]; author: The MongoDB Python Team [1]\n**google-analytics-admin** \u2014 licence: Apache-2.0 [2]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/pymongo/\n[2] https://pypi.org/project/google-analytics-admin/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 456
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 996
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 728
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "pymongo",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "dnspython"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "The MongoDB Python Team"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4876,
+    "report": "# Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.\n\n**google-cloud-secret-manager** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**mcp-types** \u2014 licence: MIT [2]; dependencies: pydantic, typing-extensions [2]; author: Model Context Protocol a Series of LF Projects, LLC. [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-secret-manager/\n[2] https://pypi.org/project/mcp-types/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 436
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1053
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 789
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "pydantic, typing-extensions"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "Model Context Protocol a Series of LF Projects, LLC."
+     }
+    ]
+   },
+   {
+    "question": "Compare absl-py and google-crc32c: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4471,
+    "report": "# Compare absl-py and google-crc32c: licence, dependencies and author.\n\n**absl-py** \u2014 licence: Apache-2.0 [1]; dependencies: none [1]; author: The Abseil Authors [1]\n**google-crc32c** \u2014 licence: Apache-2.0 [2]; dependencies: none [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/absl-py/\n[2] https://pypi.org/project/google-crc32c/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 416
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 413
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 931
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 660
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "absl-py",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "The Abseil Authors"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-kms and httplib2: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4719,
+    "report": "# Compare google-cloud-kms and httplib2: licence, dependencies and author.\n\n**google-cloud-kms** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**httplib2** \u2014 licence: MIT [2]; dependencies: pyparsing [2]; author: Joe Gregorio [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-kms/\n[2] https://pypi.org/project/httplib2/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 420
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 433
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 472
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 433
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1022
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "timeout"
+       ],
+       [
+        "search",
+        "google-cloud-kms python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "timeout"
+       ],
+       [
+        "search",
+        "google-cloud-kms python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "timeout"
+       ],
+       [
+        "search",
+        "google-cloud-kms python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "pyparsing"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "Joe Gregorio"
+     }
+    ]
+   },
+   {
+    "question": "Compare reportlab and google-cloud-storage: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4861,
+    "report": "# Compare reportlab and google-cloud-storage: licence, dependencies and author.\n\n**reportlab** \u2014 licence: BSD License [1]; dependencies: pillow, charset-normalizer [1]; author: Andy Robinson, Robin Becker, the ReportLab team and the community [1]\n**google-cloud-storage** \u2014 licence: Apache-2.0 [2]; dependencies: google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/reportlab/\n[2] https://pypi.org/project/google-cloud-storage/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 410
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 424
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1045
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 802
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "reportlab",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "BSD License"
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "pillow, charset-normalizer"
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "ok"
+       ]
+      ],
+      "value": "Andy Robinson, Robin Becker, the ReportLab team and the community"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare xlsxwriter and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6416,
+    "report": "# Compare xlsxwriter and psutil: licence, dependencies and author.\n\n**xlsxwriter** \u2014 licence: BSD-2-Clause [1]; dependencies: none [1]; author: John McNamara [1]\n**psutil** \u2014 licence: BSD-3-Clause [2]; dependencies: none [2]; author: Giampaolo Rodola [2]\n\nSources:\n[1] https://pypi.org/project/xlsxwriter/\n[2] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 410
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 383
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 385
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 382
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 834
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 917
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 655
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "xlsxwriter",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-2-Clause"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "John McNamara"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare toml and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6368,
+    "report": "# Compare toml and psutil: licence, dependencies and author.\n\n**toml** \u2014 licence: MIT [1]; dependencies: none [1]; author: William Pearson [1]\n**psutil** \u2014 licence: BSD-3-Clause [2]; dependencies: none [2]; author: Giampaolo Rodola [2]\n\nSources:\n[1] https://pypi.org/project/toml/\n[2] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 387
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 391
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 387
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 405
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 855
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 397
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 402
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 402
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 891
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 636
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "toml",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "toml",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "toml",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "ok"
+       ]
+      ],
+      "value": "William Pearson"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-vision and aiosignal: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4726,
+    "report": "# Compare google-cloud-vision and aiosignal: licence, dependencies and author.\n\n**google-cloud-vision** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [1]; author: Google LLC [1]\n**aiosignal** \u2014 licence: Apache 2.0 [2]; dependencies: frozenlist, typing-extensions [2]; author: aiohttp team <team@aiohttp.org> [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-vision/\n[2] https://pypi.org/project/aiosignal/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 424
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 451
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 423
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 422
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1007
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 747
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-vision/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "Apache 2.0"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "frozenlist, typing-extensions"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "aiohttp team <team@aiohttp.org>"
+     }
+    ]
+   },
+   {
+    "question": "Compare typing-inspect and pyflakes: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4541,
+    "report": "# Compare typing-inspect and pyflakes: licence, dependencies and author.\n\n**typing-inspect** \u2014 licence: MIT [1]; dependencies: mypy-extensions, typing-extensions, typing [1]; author: Ivan Levkivskyi [1]\n**pyflakes** \u2014 licence: MIT [2]; dependencies: none [2]; author: A lot of people [2]\n\nSources:\n[1] https://pypi.org/project/typing-inspect/\n[2] https://pypi.org/project/pyflakes/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 413
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 436
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 951
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 684
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "typing-inspect",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "mypy-extensions, typing-extensions, typing"
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/typing-inspect/",
+        "ok"
+       ]
+      ],
+      "value": "Ivan Levkivskyi"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "A lot of people"
+     }
+    ]
+   }
+  ],
+  "0.4": [
+   {
+    "question": "Compare google-cloud-os-login and execnet: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4657,
+    "report": "# Compare google-cloud-os-login and execnet: licence, dependencies and author.\n\n**google-cloud-os-login** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [1]; author: Google LLC [1]\n**execnet** \u2014 licence: MIT [2]; dependencies: none [2]; author: holger krekel and others [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-os-login/\n[2] https://pypi.org/project/execnet/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 427
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 455
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 402
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 987
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-cloud-os-login",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-os-login",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-os-login/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "execnet",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "execnet",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/execnet/",
+        "ok"
+       ]
+      ],
+      "value": "holger krekel and others"
+     }
+    ]
+   },
+   {
+    "question": "Compare triton and jedi: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6305,
+    "report": "# Compare triton and jedi: licence, dependencies and author.\n\n**triton** \u2014 licence: MIT [1]; dependencies: importlib-metadata [1]; author: Philippe Tillet [1]\n**jedi** \u2014 licence: MIT [2]; dependencies: parso [2]; author: David Halter [2]\n\nSources:\n[1] https://pypi.org/project/triton/\n[2] https://pypi.org/project/jedi/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 401
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 412
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 376
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 379
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 376
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 822
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 397
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 401
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 892
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 637
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "triton",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "triton",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "importlib-metadata"
+     },
+     {
+      "entity": "triton",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "triton",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/triton/",
+        "ok"
+       ]
+      ],
+      "value": "Philippe Tillet"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "parso"
+     },
+     {
+      "entity": "jedi",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "jedi",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/jedi/",
+        "ok"
+       ]
+      ],
+      "value": "David Halter"
+     }
+    ]
+   },
+   {
+    "question": "Compare h11 and pytest-json-ctrf: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6105,
+    "report": "# Compare h11 and pytest-json-ctrf: licence, dependencies and author.\n\n**h11** \u2014 licence: MIT [1]; dependencies: none [1]; author: Nathaniel J. Smith [1]\n**pytest-json-ctrf** \u2014 nothing established.\n\nCould not establish: pytest-json-ctrf licence (rate_limited); pytest-json-ctrf dependencies (rate_limited); pytest-json-ctrf author (rate_limited).\n\nSources:\n[1] https://pypi.org/project/h11/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 414
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 396
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 400
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 412
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 409
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 896
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 362
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 365
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 361
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 754
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 524
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "h11",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "h11",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "h11",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "h11",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/h11/",
+        "ok"
+       ]
+      ],
+      "value": "Nathaniel J. Smith"
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "licence",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "dependencies",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "pytest-json-ctrf",
+      "aspect": "author",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pytest-json-ctrf",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     }
+    ]
+   },
+   {
+    "question": "Compare pymongo and google-analytics-admin: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4688,
+    "report": "# Compare pymongo and google-analytics-admin: licence, dependencies and author.\n\n**pymongo** \u2014 licence: Apache-2.0 [1]; dependencies: dnspython [1]; author: The MongoDB Python Team [1]\n**google-analytics-admin** \u2014 licence: Apache-2.0 [2]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf [2]; author: Google LLC [2]\n\nSources:\n[1] https://pypi.org/project/pymongo/\n[2] https://pypi.org/project/google-analytics-admin/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 456
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 996
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 728
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "pymongo",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "dnspython"
+     },
+     {
+      "entity": "pymongo",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "pymongo",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pymongo/",
+        "ok"
+       ]
+      ],
+      "value": "The MongoDB Python Team"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf"
+     },
+     {
+      "entity": "google-analytics-admin",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-analytics-admin",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-analytics-admin/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 4876,
+    "report": "# Compare google-cloud-secret-manager and mcp-types: licence, dependencies and author.\n\n**google-cloud-secret-manager** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**mcp-types** \u2014 licence: MIT [2]; dependencies: pydantic, typing-extensions [2]; author: Model Context Protocol a Series of LF Projects, LLC. [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-secret-manager/\n[2] https://pypi.org/project/mcp-types/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 436
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 435
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 421
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 428
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 1053
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 789
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-secret-manager",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-secret-manager",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-secret-manager/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "pydantic, typing-extensions"
+     },
+     {
+      "entity": "mcp-types",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "mcp-types",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/mcp-types/",
+        "ok"
+       ]
+      ],
+      "value": "Model Context Protocol a Series of LF Projects, LLC."
+     }
+    ]
+   },
+   {
+    "question": "Compare absl-py and google-crc32c: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6035,
+    "report": "# Compare absl-py and google-crc32c: licence, dependencies and author.\n\n**absl-py** \u2014 licence: Apache-2.0 [1]; dependencies: none [1]; author: The Abseil Authors [1]\n**google-crc32c** \u2014 nothing established.\n\nCould not establish: google-crc32c licence (no_results); google-crc32c dependencies (no_results); google-crc32c author (no_results).\n\nSources:\n[1] https://pypi.org/project/absl-py/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 415
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 406
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 374
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 376
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 373
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 810
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 374
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 376
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 373
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 810
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 533
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "absl-py",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "absl-py",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "absl-py",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/absl-py/",
+        "ok"
+       ]
+      ],
+      "value": "The Abseil Authors"
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "licence",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "dependencies",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "google-crc32c",
+      "aspect": "author",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-crc32c",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-crc32c/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-kms and httplib2: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6675,
+    "report": "# Compare google-cloud-kms and httplib2: licence, dependencies and author.\n\n**google-cloud-kms** \u2014 licence: Apache-2.0 [1]; dependencies: google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1 [1]; author: Google LLC [1]\n**httplib2** \u2014 licence: MIT [2]; dependencies: pyparsing [2]; author: Joe Gregorio [2]\n\nSources:\n[1] https://pypi.org/project/google-cloud-kms/\n[2] https://pypi.org/project/httplib2/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 420
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 392
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 396
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 392
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 407
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 864
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 419
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 457
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 978
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 718
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "google-api-core, google-auth, grpcio, proto-plus, protobuf, grpc-google-iam-v1"
+     },
+     {
+      "entity": "google-cloud-kms",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-kms",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-kms/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "pyparsing"
+     },
+     {
+      "entity": "httplib2",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "httplib2",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/httplib2/",
+        "ok"
+       ]
+      ],
+      "value": "Joe Gregorio"
+     }
+    ]
+   },
+   {
+    "question": "Compare reportlab and google-cloud-storage: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6548,
+    "report": "# Compare reportlab and google-cloud-storage: licence, dependencies and author.\n\n**reportlab** \u2014 nothing established.\n**google-cloud-storage** \u2014 licence: Apache-2.0 [1]; dependencies: google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c [1]; author: Google LLC [1]\n\nCould not establish: reportlab licence (rate_limited); reportlab dependencies (rate_limited); reportlab author (rate_limited).\n\nSources:\n[1] https://pypi.org/project/google-cloud-storage/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 426
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 398
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 400
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 397
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 473
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 424
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 975
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 371
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 373
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 370
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 894
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 622
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "reportlab",
+      "aspect": "licence",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "dependencies",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "reportlab",
+      "aspect": "author",
+      "status": "rate_limited",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "reportlab",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/reportlab/",
+        "rate_limited"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Apache-2.0"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "google-auth, google-api-core, google-cloud-core, google-resumable-media, requests, google-crc32c"
+     },
+     {
+      "entity": "google-cloud-storage",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "google-cloud-storage",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/google-cloud-storage/",
+        "ok"
+       ]
+      ],
+      "value": "Google LLC"
+     }
+    ]
+   },
+   {
+    "question": "Compare xlsxwriter and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6454,
+    "report": "# Compare xlsxwriter and psutil: licence, dependencies and author.\n\n**xlsxwriter** \u2014 licence: BSD-2-Clause [1]; dependencies: none [1]; author: John McNamara [1]\n**psutil** \u2014 licence: BSD-3-Clause [2]; dependencies: none [2]; author: Giampaolo Rodola [2]\n\nSources:\n[1] https://pypi.org/project/xlsxwriter/\n[2] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 410
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 370
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 372
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 369
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 419
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 834
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 411
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 956
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 655
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "xlsxwriter",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-2-Clause"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "xlsxwriter",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "xlsxwriter",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/xlsxwriter/",
+        "ok"
+       ]
+      ],
+      "value": "John McNamara"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare toml and psutil: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6178,
+    "report": "# Compare toml and psutil: licence, dependencies and author.\n\n**toml** \u2014 nothing established.\n**psutil** \u2014 licence: BSD-3-Clause [1]; dependencies: none [1]; author: Giampaolo Rodola [1]\n\nCould not establish: toml licence (no_results); toml dependencies (no_results); toml author (no_results).\n\nSources:\n[1] https://pypi.org/project/psutil/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 391
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 394
+     },
+     {
+      "node": "researcher",
+      "status": "rate_limited",
+      "tokens": 391
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 419
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 904
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 364
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 368
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 364
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 824
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 520
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "toml",
+      "aspect": "licence",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "toml",
+      "aspect": "dependencies",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "toml",
+      "aspect": "author",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "toml",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/toml/",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "psutil",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "BSD-3-Clause"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "psutil",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 2,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "psutil",
+        "no_results"
+       ],
+       [
+        "search",
+        "psutil python package",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/psutil/",
+        "ok"
+       ]
+      ],
+      "value": "Giampaolo Rodola"
+     }
+    ]
+   },
+   {
+    "question": "Compare google-cloud-vision and aiosignal: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 6127,
+    "report": "# Compare google-cloud-vision and aiosignal: licence, dependencies and author.\n\n**google-cloud-vision** \u2014 nothing established.\n**aiosignal** \u2014 licence: Apache 2.0 [1]; dependencies: frozenlist, typing-extensions [1]; author: aiohttp team <team@aiohttp.org> [1]\n\nCould not establish: google-cloud-vision licence (no_results); google-cloud-vision dependencies (no_results); google-cloud-vision author (no_results).\n\nSources:\n[1] https://pypi.org/project/aiosignal/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 425
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 379
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 382
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 379
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 409
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 422
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 418
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 3",
+      "tokens": 849
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 363
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 365
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 363
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 800
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 573
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "licence",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "dependencies",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "google-cloud-vision",
+      "aspect": "author",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "google-cloud-vision",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "Apache 2.0"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "frozenlist, typing-extensions"
+     },
+     {
+      "entity": "aiosignal",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 1,
+      "retried": false,
+      "log": [
+       [
+        "search",
+        "aiosignal",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/aiosignal/",
+        "ok"
+       ]
+      ],
+      "value": "aiohttp team <team@aiohttp.org>"
+     }
+    ]
+   },
+   {
+    "question": "Compare typing-inspect and pyflakes: licence, dependencies and author.",
+    "status": "done",
+    "tokens": 7184,
+    "report": "# Compare typing-inspect and pyflakes: licence, dependencies and author.\n\n**typing-inspect** \u2014 nothing established.\n**pyflakes** \u2014 licence: MIT [1]; dependencies: none [1]; author: A lot of people [1]\n\nCould not establish: typing-inspect licence (no_results); typing-inspect dependencies (no_results); typing-inspect author (no_results).\n\nSources:\n[1] https://pypi.org/project/pyflakes/",
+    "trace": [
+     {
+      "node": "planner",
+      "status": "6 sub-questions",
+      "tokens": 418
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 388
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 390
+     },
+     {
+      "node": "researcher",
+      "status": "timeout",
+      "tokens": 387
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 396
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 399
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 395
+     },
+     {
+      "node": "supervisor",
+      "status": "sent back 6",
+      "tokens": 818
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 360
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 362
+     },
+     {
+      "node": "researcher",
+      "status": "no_results",
+      "tokens": 359
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 403
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 408
+     },
+     {
+      "node": "researcher",
+      "status": "ok",
+      "tokens": 408
+     },
+     {
+      "node": "supervisor",
+      "status": "complete",
+      "tokens": 764
+     },
+     {
+      "node": "writer",
+      "status": "done",
+      "tokens": 529
+     }
+    ],
+    "attempts": [
+     {
+      "entity": "typing-inspect",
+      "aspect": "licence",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "dependencies",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "typing-inspect",
+      "aspect": "author",
+      "status": "no_results",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "typing-inspect",
+        "no_results"
+       ]
+      ],
+      "value": null
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "licence",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "MIT"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "dependencies",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "none"
+     },
+     {
+      "entity": "pyflakes",
+      "aspect": "author",
+      "status": "ok",
+      "searches": 3,
+      "retried": true,
+      "log": [
+       [
+        "search",
+        "pyflakes",
+        "ok"
+       ],
+       [
+        "fetch",
+        "https://pypi.org/project/pyflakes/",
+        "ok"
+       ]
+      ],
+      "value": "A lot of people"
+     }
+    ]
+   }
+  ]
+ }
+}

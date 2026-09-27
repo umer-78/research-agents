@@ -1,5 +1,7 @@
 # research-agents
 
+**Live demo:** https://umer-78.github.io/research-agents/ (watch recorded runs step by step at three tool failure rates)
+
 A multi-agent research assistant built around the three things a production agent needs and a tutorial agent doesn't:
 
 - **Durable state.** Every step is stored, and a killed run resumes where it stopped.
@@ -25,14 +27,14 @@ The "web" is local and real: the project pages of the 500 most-downloaded Python
 - **Every claim is cited.** All 564 claims match the PyPI record behind the page, and every citation's snippet contains its claim on the entity's own page.
   - This is by construction: the pages are rendered from those records.
   - It checks the extraction, entity check and citation plumbing, not reading comprehension. With an LLM researcher, this is the number to watch.
-- **Budgets held.** The median run metered 4,741 tokens and the largest 8,528, against a 20,000 ceiling; no run needed more than 16 steps.
+- **Budgets held.** The median run metered 4,706 tokens and the largest 8,492, against a 20,000 ceiling; no run needed more than 16 steps.
 - **Durable state works:** 20 of 20 runs killed at a random step and resumed from the store ended with the same report and the same path.
 
 | Tool failure rate | Sub-questions answered | Median tokens per run |
 |---|---|---|
-| 0% | 100.0% | 4,616 |
-| 15% | 94.0% | 4,741 |
-| 40% | 66.5% | 6,360 |
+| 0% | 100.0% | 4,582 |
+| 15% | 94.0% | 4,706 |
+| 40% | 66.5% | 6,320 |
 
 As tools get worse, coverage falls and cost rises (retries), but runs still end within budget. They report what they don't know instead of inventing it.
 
@@ -70,6 +72,7 @@ state["report"], state["trace"]            # every step: node, status, tokens, m
 pip install -e '.[dev]'
 pytest -q
 python -m research bench
+python -m research.demo    # rebuild the live demo's data in docs/
 ```
 
 The package list and PyPI records are downloaded on first use into `~/.cache/research`; nothing is committed.

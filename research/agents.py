@@ -28,7 +28,7 @@ class Finding:
     value: str
     url: str
     snippet: str
-    retrieved_at: float
+    retrieved_at: int                    # seconds since the epoch
 
 
 @dataclass
@@ -88,7 +88,7 @@ def researcher(sub, web, attempt_no, max_searches):
         if not value or value in ("not stated", "none") and sub.aspect != "dependencies":
             a.status = "not_stated"
             return a
-        a.status, a.finding = "ok", Finding(sub.entity, sub.aspect, value, hit["url"], snippet, time.time())
+        a.status, a.finding = "ok", Finding(sub.entity, sub.aspect, value, hit["url"], snippet, int(time.time()))   # whole seconds: a fixed-length stamp keeps metered tokens reproducible
         return a
     return a
 
