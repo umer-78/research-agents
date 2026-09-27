@@ -36,7 +36,7 @@
       <section class="card" id="run">
         <h2>Watch a run</h2>
         <p class="sub">Each step is one agent's turn. Sub-questions turn green when answered with a citation; a failed tool call leaves them for the supervisor, which sends the retryable ones back once. The writer reports what it could not establish instead of guessing.</p>
-        <div class="controls"><label for="qsel">Question</label><select id="qsel"></select></div>
+        <div class="controls"><label for="qsel">Question</label><select id="qsel" data-fx-step></select></div>
         <div class="controls"><label>Tools fail</label><div id="rate"></div><button class="btn primary" id="play" type="button">Replay</button></div>
         <div class="steps" id="trace"></div>
         <div class="readout" id="meter"></div>
