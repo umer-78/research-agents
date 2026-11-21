@@ -16,6 +16,8 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
+      - name: Lint
+        run: pipx run ruff check .
       - run: pip install -e '.[dev]'
       - run: pytest -q
       # 100 research runs against the local web
